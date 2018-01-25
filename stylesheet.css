@@ -108,9 +108,9 @@ body{
 	height: 700px;
 	padding-left: 100px;
 	padding-right: 78px;
-	margin-left: 325px;
+	margin-left: 280px;
 	background-color:black;
-	margin-top: 79px;
+	margin-top: 25px;
 	color: white;
 }
 	#main_content h1{
@@ -148,8 +148,8 @@ body{
 }
 
 #footer{
-	margin-left: 92px;
-	margin-top: 812px;
+	margin-left: 50px;
+	margin-top: 20px;
 	border-top: 2px solid black;
 	clear: both;
 	text-align: center; 
